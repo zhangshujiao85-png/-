@@ -1,0 +1,76 @@
+{
+  "export_time": "2026-04-08T15:18:11.167570",
+  "positions": [
+    {
+      "id": "POS_20260408151809_0001",
+      "code": "600519",
+      "name": "Guizhou Moutai",
+      "shares": 100,
+      "buy_price": 1750.0,
+      "current_price": 1800.0,
+      "market_value": 180000.0,
+      "cost_value": 175000.0,
+      "profit_loss": 5000.0,
+      "profit_loss_pct": 2.857142857142857,
+      "stop_loss_price": 1675.0,
+      "take_profit_price": 1840.0,
+      "buy_date": "2026-04-08T15:18:09.425683",
+      "note": "Long-term holding",
+      "tags": []
+    },
+    {
+      "id": "POS_20260408151809_0002",
+      "code": "000858",
+      "name": "Wuliangye",
+      "shares": 200,
+      "buy_price": 150.0,
+      "current_price": 155.0,
+      "market_value": 31000.0,
+      "cost_value": 30000.0,
+      "profit_loss": 1000.0,
+      "profit_loss_pct": 3.3333333333333335,
+      "stop_loss_price": 142.0,
+      "take_profit_price": 160.0,
+      "buy_date": "2026-04-08T15:18:09.425683",
+      "note": "",
+      "tags": [
+        "Consumption",
+        "Baijiu"
+      ]
+    },
+    {
+      "id": "POS_20260408151809_0003",
+      "code": "600519",
+      "name": "Guizhou Moutai",
+      "shares": 100,
+      "buy_price": 1750.0,
+      "current_price": 1750.0,
+      "market_value": 175000.0,
+      "cost_value": 175000.0,
+      "profit_loss": 0.0,
+      "profit_loss_pct": 0.0,
+      "stop_loss_price": 1675.0,
+      "take_profit_price": 1840.0,
+      "buy_date": "2026-04-08T15:18:09.431951",
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "POS_20260408151811_0004",
+      "code": "600519",
+      "name": "Moutai",
+      "shares": 100,
+      "buy_price": 1750.0,
+      "current_price": 1750.0,
+      "market_value": 175000.0,
+      "cost_value": 175000.0,
+      "profit_loss": 0.0,
+      "profit_loss_pct": 0.0,
+      "stop_loss_price": 1675.0,
+      "take_profit_price": 1840.0,
+      "buy_date": "2026-04-08T15:18:11.167570",
+      "note": "",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "counter": 6,
+  "positions": [
+    {
+      "id": "POS_20260408151809_0001",
+      "code": "600519",
+      "name": "Guizhou Moutai",
+      "position_type": "long",
+      "shares": 100,
+      "buy_price": 1750.0,
+      "current_price": 1690.0,
+      "stop_loss_price": 1675.0,
+      "take_profit_price": 1840.0,
+      "buy_date": "2026-04-08T15:18:09.425683",
+      "note": "Long-term holding",
+      "tags": []
+    },
+    {
+      "id": "POS_20260408151809_0002",
+      "code": "000858",
+      "name": "Wuliangye",
+      "position_type": "long",
+      "shares": 200,
+      "buy_price": 150.0,
+      "current_price": 155.0,
+      "stop_loss_price": 142.0,
+      "take_profit_price": 160.0,
+      "buy_date": "2026-04-08T15:18:09.425683",
+      "note": "",
+      "tags": [
+        "Consumption",
+        "Baijiu"
+      ]
+    },
+    {
+      "id": "POS_20260408151809_0003",
+      "code": "600519",
+      "name": "Guizhou Moutai",
+      "position_type": "long",
+      "shares": 100,
+      "buy_price": 1750.0,
+      "current_price": 1690.0,
+      "stop_loss_price": 1675.0,
+      "take_profit_price": 1840.0,
+      "buy_date": "2026-04-08T15:18:09.431951",
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "POS_20260408151811_0004",
+      "code": "600519",
+      "name": "Moutai",
+      "position_type": "long",
+      "shares": 100,
+      "buy_price": 1750.0,
+      "current_price": 1690.0,
+      "stop_loss_price": 1675.0,
+      "take_profit_price": 1840.0,
+      "buy_date": "2026-04-08T15:18:11.167570",
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "POS_20260408153645_0005",
+      "code": "600519",
+      "name": "Moutai Test",
+      "position_type": "long",
+      "shares": 100,
+      "buy_price": 1750.0,
+      "current_price": 1690.0,
+      "stop_loss_price": null,
+      "take_profit_price": null,
+      "buy_date": "2026-04-08T15:36:45.968858",
+      "note": "",
+      "tags": []
+    },
+    {
+      "id": "POS_20260408153658_0006",
+      "code": "600519",
+      "name": "Test Stock",
+      "position_type": "long",
+      "shares": 100,
+      "buy_price": 1750.0,
+      "current_price": 1690.0,
+      "stop_loss_price": 1700.0,
+      "take_profit_price": null,
+      "buy_date": "2026-04-08T15:36:58.532519",
+      "note": "",
+      "tags": []
+    }
+  ]
+}

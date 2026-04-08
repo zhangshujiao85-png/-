@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 数据文件（太大，不应提交到Git）
+data/*.db
+data/*.csv
+data/*.xlsx
+*.db
+*.csv
+*.xlsx
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 测试文件
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 备份文件
+*.backup
+*.old
+
+# 本地配置（可能包含敏感信息）
+.env
+.env.local
+
+# 输出文件
+output/
+*.png
+*.jpg
+*.jpeg
+
+# 下载的数据
+D:\BaiduNetdiskDownload\
+
+# 问题文件
+nul

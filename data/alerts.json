@@ -1,0 +1,249 @@
+{
+  "counter": 18,
+  "alerts": [
+    {
+      "id": "ALERT_20260408153658_0018",
+      "level": "CRITICAL",
+      "category": "position",
+      "title": "Test Stock stop_loss",
+      "message": "Stop loss triggered for Test Stock",
+      "suggestion": "Current price 1690.00 reached stop loss 1700.00. Loss: -3.43%",
+      "timestamp": "2026-04-08T15:36:58.535518",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {
+        "position_id": "POS_20260408153658_0006",
+        "code": "600519",
+        "alert_type": "stop_loss"
+      }
+    },
+    {
+      "id": "ALERT_20260408153645_0017",
+      "level": "INFO",
+      "category": "market",
+      "title": "测试预警",
+      "message": "这是一个集成测试预警",
+      "suggestion": "",
+      "timestamp": "2026-04-08T15:36:45.961344",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408151811_0016",
+      "level": "WARNING",
+      "category": "position",
+      "title": "Moutai plunge",
+      "message": "Moutai plunged -5.14%",
+      "suggestion": "Price dropped from 1750.00 to 1660.00. Consider stop loss.",
+      "timestamp": "2026-04-08T15:18:11.172573",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {
+        "position_id": "POS_20260408151811_0004",
+        "code": "600519",
+        "alert_type": "plunge"
+      }
+    },
+    {
+      "id": "ALERT_20260408151811_0015",
+      "level": "CRITICAL",
+      "category": "position",
+      "title": "Moutai stop_loss",
+      "message": "Stop loss triggered for Moutai",
+      "suggestion": "Current price 1660.00 reached stop loss 1675.00. Loss: -5.14%",
+      "timestamp": "2026-04-08T15:18:11.171583",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {
+        "position_id": "POS_20260408151811_0004",
+        "code": "600519",
+        "alert_type": "stop_loss"
+      }
+    },
+    {
+      "id": "ALERT_20260408151811_0014",
+      "level": "WARNING",
+      "category": "position",
+      "title": "Guizhou Moutai plunge",
+      "message": "Guizhou Moutai plunged -5.14%",
+      "suggestion": "Price dropped from 1750.00 to 1660.00. Consider stop loss.",
+      "timestamp": "2026-04-08T15:18:11.170569",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {
+        "position_id": "POS_20260408151809_0003",
+        "code": "600519",
+        "alert_type": "plunge"
+      }
+    },
+    {
+      "id": "ALERT_20260408151811_0013",
+      "level": "CRITICAL",
+      "category": "position",
+      "title": "Guizhou Moutai stop_loss",
+      "message": "Stop loss triggered for Guizhou Moutai",
+      "suggestion": "Current price 1660.00 reached stop loss 1675.00. Loss: -5.14%",
+      "timestamp": "2026-04-08T15:18:11.170569",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {
+        "position_id": "POS_20260408151809_0003",
+        "code": "600519",
+        "alert_type": "stop_loss"
+      }
+    },
+    {
+      "id": "ALERT_20260408151811_0012",
+      "level": "WARNING",
+      "category": "position",
+      "title": "Guizhou Moutai plunge",
+      "message": "Guizhou Moutai plunged -7.78%",
+      "suggestion": "Price dropped from 1800.00 to 1660.00. Consider stop loss.",
+      "timestamp": "2026-04-08T15:18:11.169569",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {
+        "position_id": "POS_20260408151809_0001",
+        "code": "600519",
+        "alert_type": "plunge"
+      }
+    },
+    {
+      "id": "ALERT_20260408151811_0011",
+      "level": "CRITICAL",
+      "category": "position",
+      "title": "Guizhou Moutai stop_loss",
+      "message": "Stop loss triggered for Guizhou Moutai",
+      "suggestion": "Current price 1660.00 reached stop loss 1675.00. Loss: -5.14%",
+      "timestamp": "2026-04-08T15:18:11.169569",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {
+        "position_id": "POS_20260408151809_0001",
+        "code": "600519",
+        "alert_type": "stop_loss"
+      }
+    },
+    {
+      "id": "ALERT_20260408150411_0010",
+      "level": "INFO",
+      "category": "sector",
+      "title": "测试信息预警",
+      "message": "这是一个测试信息预警",
+      "suggestion": "仅供参考",
+      "timestamp": "2026-04-08T15:04:11.253469",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150411_0009",
+      "level": "WARNING",
+      "category": "position",
+      "title": "测试警告预警",
+      "message": "这是一个测试警告预警",
+      "suggestion": "建议关注",
+      "timestamp": "2026-04-08T15:04:11.252472",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150411_0008",
+      "level": "CRITICAL",
+      "category": "market",
+      "title": "测试严重预警",
+      "message": "这是一个测试严重预警",
+      "suggestion": "建议立即处理",
+      "timestamp": "2026-04-08T15:04:11.252472",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150401_0007",
+      "level": "INFO",
+      "category": "sector",
+      "title": "测试信息预警",
+      "message": "这是一个测试信息预警",
+      "suggestion": "仅供参考",
+      "timestamp": "2026-04-08T15:04:01.531386",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150401_0006",
+      "level": "WARNING",
+      "category": "position",
+      "title": "测试警告预警",
+      "message": "这是一个测试警告预警",
+      "suggestion": "建议关注",
+      "timestamp": "2026-04-08T15:04:01.531386",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150401_0005",
+      "level": "CRITICAL",
+      "category": "market",
+      "title": "测试严重预警",
+      "message": "这是一个测试严重预警",
+      "suggestion": "建议立即处理",
+      "timestamp": "2026-04-08T15:04:01.531386",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150328_0004",
+      "level": "INFO",
+      "category": "sector",
+      "title": "测试信息预警",
+      "message": "这是一个测试信息预警",
+      "suggestion": "仅供参考",
+      "timestamp": "2026-04-08T15:03:28.967062",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150328_0003",
+      "level": "WARNING",
+      "category": "position",
+      "title": "测试警告预警",
+      "message": "这是一个测试警告预警",
+      "suggestion": "建议关注",
+      "timestamp": "2026-04-08T15:03:28.967062",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150328_0002",
+      "level": "CRITICAL",
+      "category": "market",
+      "title": "测试严重预警",
+      "message": "这是一个测试严重预警",
+      "suggestion": "建议立即处理",
+      "timestamp": "2026-04-08T15:03:28.967062",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    },
+    {
+      "id": "ALERT_20260408150317_0001",
+      "level": "CRITICAL",
+      "category": "market",
+      "title": "测试严重预警",
+      "message": "这是一个测试严重预警",
+      "suggestion": "建议立即处理",
+      "timestamp": "2026-04-08T15:03:17.393320",
+      "is_read": false,
+      "is_dismissed": false,
+      "metadata": {}
+    }
+  ]
+}
